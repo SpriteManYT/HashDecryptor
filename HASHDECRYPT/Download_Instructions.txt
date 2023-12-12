@@ -1,0 +1,5 @@
+!!! MAKE SURE TO HAVE PYTHON INSTALLED !!!
+
+First run cmd as administrator.
+Then put in the following command ( cd C:\Users\YourPCUsernameHere\Downloads\HASHDECRYPT )
+Then put in the next following command ( pip install requirements.txt )

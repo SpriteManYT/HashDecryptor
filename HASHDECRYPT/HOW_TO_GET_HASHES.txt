@@ -1,0 +1,4 @@
+Go to https://breachdirectory.org/ and enter an email or username of choice
+
+A password might show up but some letters are censored so copy the long string to the right and put it in the hash decryptor
+if the password is pwned it will show up.
