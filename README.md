@@ -5,6 +5,7 @@ decrypts pwned password hashes
 
 linux terminal install
 ------------------------------------------------------
+------------------------------------------------------
 cd #HOME
 ------------------------------------------------------
 git clone https://github.com/SpriteManYT/HashDecryptor
@@ -17,8 +18,10 @@ pip3 install -r requirements.txt
 ------------------------------------------------------
 python3 decryptor.py
 ------------------------------------------------------
+------------------------------------------------------
 
 windows install
+------------------------------------------------------
 ------------------------------------------------------
 download the file and unzip it
 ------------------------------------------------------
@@ -29,4 +32,5 @@ enter following command: C:\Users\YOURUSERNAMEHERE\Downloads\HashDecryptor-main\
 enter following command: pip install -r requirements.txt
 ------------------------------------------------------
 enter following command: python3 decryptor.py
+------------------------------------------------------
 ------------------------------------------------------
